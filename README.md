@@ -1136,3 +1136,4 @@ export const useDebounce: IuseDebounce = (
   - 表示在 .tsx 文件中支持 jsx
 
 ## (2) 如何编写 .d.ts
+- It's not difficult.
